@@ -1,4 +1,4 @@
 # hello-world
 my first repository!
 
-I wantet to change something in this file!
+I wanted to change something in this file!
